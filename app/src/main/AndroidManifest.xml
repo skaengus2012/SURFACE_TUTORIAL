@@ -16,7 +16,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nlab.practice">
+    package="com.nlab.practice.surfacetutorial">
 
     <application
         android:allowBackup="true"

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.nlab.practice
+package com.nlab.practice.surfacetutorial
 
 import android.annotation.SuppressLint
 import android.graphics.Color
@@ -23,9 +23,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.SurfaceView
 import android.widget.Button
-import com.nlab.practice.game.*
-import com.nlab.practice.game.domain.StateProducerImpl
-import com.nlab.practice.game.domain.RendererImpl
+import com.nlab.practice.surfacetutorial.game.*
+import com.nlab.practice.surfacetutorial.game.domain.StateProducerImpl
+import com.nlab.practice.surfacetutorial.game.domain.RendererImpl
 import java.util.concurrent.*
 
 class MainActivity : AppCompatActivity() {

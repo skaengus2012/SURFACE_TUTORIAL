@@ -14,15 +14,13 @@
  * limitations under the License.
  */
 
-package com.nlab.practice.game;
+package com.nlab.practice.surfacetutorial.game;
 
-import androidx.annotation.NonNull;
 
 /**
  * @author Doohyun
  */
-public abstract class StateProducer {
+public abstract class Renderer {
     protected abstract void onCreated();
-    protected abstract void onDestroy();
-    protected abstract void updateTo(@NonNull State state);
+    protected abstract void onDestroyed();
 }

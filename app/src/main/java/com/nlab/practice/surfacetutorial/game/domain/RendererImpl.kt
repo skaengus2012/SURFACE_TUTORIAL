@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.nlab.practice.game.domain
+package com.nlab.practice.surfacetutorial.game.domain
 
 import android.view.SurfaceHolder
-import com.nlab.practice.game.Renderer
-import com.nlab.practice.game.State
+import com.nlab.practice.surfacetutorial.game.Renderer
+import com.nlab.practice.surfacetutorial.game.State
 import java.util.concurrent.BlockingQueue
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors

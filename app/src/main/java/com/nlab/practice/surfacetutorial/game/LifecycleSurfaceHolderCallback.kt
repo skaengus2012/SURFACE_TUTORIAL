@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.nlab.practice.game
+package com.nlab.practice.surfacetutorial.game
 
 import android.view.SurfaceHolder
 

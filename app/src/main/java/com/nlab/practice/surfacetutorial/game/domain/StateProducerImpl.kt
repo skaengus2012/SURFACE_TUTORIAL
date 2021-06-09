@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.nlab.practice.game.domain
+package com.nlab.practice.surfacetutorial.game.domain
 
-import com.nlab.practice.game.StateProducer
-import com.nlab.practice.game.State
+import com.nlab.practice.surfacetutorial.game.StateProducer
+import com.nlab.practice.surfacetutorial.game.State
 import java.util.concurrent.*
 
 /**
